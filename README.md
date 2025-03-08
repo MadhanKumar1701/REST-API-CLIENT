@@ -48,7 +48,7 @@ Through this task, I gained practical experience in:
 This task helped me understand how to integrate external APIs into Java applications and work with **JSON data parsing** effectively.
 
 
-#OUTPUT
+OUTPUT:
 
 
 ![Image](https://github.com/user-attachments/assets/6f67bba0-b565-43be-9424-d96bbf797e46)
